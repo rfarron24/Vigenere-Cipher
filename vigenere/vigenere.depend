@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1398149236 source:d:\kuliah\semester 6\kriptografi\vigenere\vigenere.c
+	"vigenere.h"
+
+1398140203 d:\kuliah\semester 6\kriptografi\vigenere\vigenere.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1398144921 source:d:\kuliah\semester 6\kriptografi\vigenere\main.c
+	"vigenere.h"
+
+1398131994 d:\kuliah\semester 6\kriptografi\vigenere\boolean.h
+

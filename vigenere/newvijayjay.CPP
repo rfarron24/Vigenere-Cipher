@@ -1,0 +1,130 @@
+#include <iostream.h>
+#include <stdio.h>
+#include <string>
+
+void main()
+{
+string huruf;
+ bool repeat = true;
+
+ while (repeat)
+    {
+cout<<"huruf: ";
+cin>>huruf;
+if (huruf=="A")   {
+      cout<<"									R"<<endl;}
+
+          else
+
+          if (huruf=="B")   {
+      cout<<"									I"<<endl;}
+
+            else
+
+          if (huruf=="C")   {
+      cout<<"									H"<<endl;}
+
+
+          if (huruf=="D")   {
+      cout<<"									A"<<endl;}
+
+
+          if (huruf=="E")   {
+      cout<<"									F"<<endl;}
+
+
+          if (huruf=="F")   {
+      cout<<"									U"<<endl;}
+
+
+          if (huruf=="G")   {
+      cout<<"									S"<<endl;}
+
+
+          if (huruf=="H")   {
+      cout<<"									E"<<endl;}
+
+
+          if (huruf=="I")   {
+      cout<<"									N"<<endl;}
+
+
+          if (huruf=="J")   {
+      cout<<"									B"<<endl;}
+
+
+          if (huruf=="K")   {
+      cout<<"									C"<<endl;}
+
+
+          if (huruf=="L")   {
+      cout<<"									D"<<endl;}
+
+
+          if (huruf=="M")   {
+      cout<<"									G"<<endl;}
+
+
+          if (huruf=="N")   {
+      cout<<"									J"<<endl;}
+
+
+          if (huruf=="O")   {
+      cout<<"									K"<<endl;}
+
+
+          if (huruf=="P")   {
+      cout<<"									L"<<endl;}
+
+
+          if (huruf=="Q")   {
+      cout<<"									M"<<endl;}
+
+        
+          if (huruf=="R")   {
+      cout<<"									O"<<endl;}
+
+
+          if (huruf=="S")   {
+      cout<<"									P"<<endl;}
+
+
+          if (huruf=="T")   {
+      cout<<"									Q"<<endl;}
+
+
+          if (huruf=="U")   {
+      cout<<"									T"<<endl;}
+
+
+          if (huruf=="V")   {
+      cout<<"									V"<<endl;}
+
+
+          if (huruf=="W")   {
+      cout<<"									W"<<endl;}
+
+
+          if (huruf=="X")   {
+      cout<<"									X"<<endl;}
+
+
+          if (huruf=="Y")   {
+      cout<<"									Y"<<endl;}
+
+
+          if (huruf=="Z")   {
+      cout<<"									Z"<<endl;}
+
+
+      cout << "Repeat? [1/2]" << endl;
+        char answer;
+        cin >> answer;
+        repeat = answer == '1';
+    }
+    cout << "Thank you, goodbye" << endl;
+
+      system("pause");
+
+      }
+
